@@ -4,3 +4,4 @@ this line is feature1.
 this line is also feature1.
 this  line was missing from feature1  , so add 
 feature2 
+this is feature2 addition
